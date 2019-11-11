@@ -1,1 +1,1 @@
-# big-ideas-final-project
+# CMPINF0010 Big Ideas Final Project
